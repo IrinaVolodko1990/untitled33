@@ -7,5 +7,5 @@ class ArraysCopy {
                 -234, 35, 80};
         float [] numbersCopy = Arrays.copyOf(numbers, numbers.length);
         System.out.println(Arrays.toString(numbersCopy));
-        System.out.println("01-02-2021");
+        System.out.println("кое-что новое");
     }}
