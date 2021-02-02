@@ -8,4 +8,6 @@ class ArraysCopy {
         float [] numbersCopy = Arrays.copyOf(numbers, numbers.length);
         System.out.println(Arrays.toString(numbersCopy));
         System.out.println("01-02-2021");
+        System.out.println("кое что новое");
+        System.out.println("кое что новое2");
     }}
